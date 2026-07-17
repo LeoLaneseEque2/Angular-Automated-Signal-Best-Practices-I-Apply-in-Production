@@ -91,9 +91,6 @@ grep -rnE -A3 'toSignal\(' --include=*.ts src/app | grep -B3 -v 'initialValue'
 
 ## THANKS!
 
-### Workshop Recording Link
-[Watch the Teams Meeting Recording - 2025/10/24](https://teams.microsoft.com/l/meetingrecap?driveId=b%21eE0f-puY2E2k9oszmlxnJUW0OIvoWIpKg9NjqSqLhFF4YTqeCMNgRo9dsBlMI30w&driveItemId=01UYUOEWGO3FDLNONBFRE3IVCJO2JF5EDW&sitePath=https%3A%2F%2Feque2online-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fleo_lanese_eque2_com%2FEc7ZRra5oSxJtFRJdpJekHYB4xvQL5LOIQ5XjD-iynmlHQ&fileUrl=https%3A%2F%2Feque2online-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fleo_lanese_eque2_com%2FEc7ZRra5oSxJtFRJdpJekHYB4xvQL5LOIQ5XjD-iynmlHQ&iCalUid=040000008200E00074C5B7101A82E00800000000BBEA13F14F3FDC01000000000000000010000000B6E71E2AB3CFFF49A985053F80FE66D1&threadId=19%3Ameeting_YTljZDc4MTgtNDAxZS00MDk1LWIzYTQtMDIwOThiZjMwNWVl%40thread.v2&organizerId=9948fa2f-c392-4610-9eb4-535f8348b501&tenantId=30cbef6a-55b1-4f4e-b86a-ab4f70fafa33&callId=dbb2aec7-2674-4ce9-aaf1-9de18edb3e5e&threadType=Meeting&meetingType=Scheduled&subType=RecapSharingLink_RecapChiclet)
-
 MIT license
 ====================
 Or same license apply for 3rd party libraries I'm using if apply.
