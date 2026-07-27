@@ -1,6 +1,6 @@
 # Angular Automated Signal Best Practices I Apply in Production
 
-> Angular Signals best practices Workshops to explore the code benefits of the new reactive path
+> Angular Signals best practices Eque2 Workshop to explore the code benefits of the new Angular reactive path
 
 The idea is to catch Signal Anti-Patterns before they hit production. These are the rules I hold every signal-driven feature to. Each one comes down to the same idea: work with Angular's reactivity graph instead of around it. Get these right and signals do exactly what they promise, fine-grained updates, no wasted recomputation, predictable data flow.
 
