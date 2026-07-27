@@ -1,4 +1,4 @@
-# Angular Automated Signal Best Practices I Apply in Production
+# Angular Automated Signal Best Practices I Apply in Production -Angular Workshop - Eque2 (©)
 
 > Angular Signals best practices Eque2 Workshop to explore the code benefits of the new Angular reactive path
 
