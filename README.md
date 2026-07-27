@@ -197,10 +197,10 @@ grep -rn "{{ [a-z]*(" src/ --include="*.html"  # basic smoke test 4
 ```
 
 ### What it catches:
-🚫 Hard Fails: In-place mutations (.push(), .splice())
-⚠️ Warnings: effect() deriving state (use computed())
-⚠️ Warnings: Async fetching in effect() (use resource())
-📊 Stats: effect() vs onCleanup() ratios (leak detection)
+- 🚫 Hard Fails: In-place mutations (.push(), .splice())
+- ⚠️ Warnings: effect() deriving state (use computed())
+- ⚠️ Warnings: Async fetching in effect() (use resource())
+- 📊 Stats: effect() vs onCleanup() ratios (leak detection)
 
 ### Full Audit greps / smoke tests
 ```bash
