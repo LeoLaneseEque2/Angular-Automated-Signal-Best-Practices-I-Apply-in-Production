@@ -231,6 +231,15 @@ https://gist.github.com/leolanese/8443691d4973634ca2188ab42c9ce42a
 
 ## THANKS!
 
+## 📚 Previous Workshop
+
+Before diving into these best practices, you may find it useful to review the fundamentals of Angular Signals.
+
+**🔗 Angular Signals Workshop**  
+https://github.com/LeoLaneseEque2/Angular-Signals-Workshop
+
+
+
 MIT license
 ====================
 Or same license apply for 3rd party libraries I'm using if apply.
